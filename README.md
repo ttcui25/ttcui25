@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋 Hi there, I'm Tikki
+
+This is an alternate account for small school projects. Please see
+(@tikkikkit21)[https://github.com/tikkikkit21] for my main account.
 
 <!--
 **ttcui25/ttcui25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
